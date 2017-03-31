@@ -18,7 +18,7 @@ Para desplegar el proyecto ejecuta el comando
 npm start
 ```
 
-Abre un navegador en el puerto 9000 de tu servidor local
+Abre un navegador en el puerto 9000
 
 ```
 http://localhost:9000
