@@ -23,3 +23,5 @@ Abre un navegador en el puerto 9000
 ```
 http://localhost:9000
 ```
+
+![React desde cero](https://ed.team/sites/default/files/styles/large/public/courses/images/react-poster_0.jpg?itok=iDcHgiYQ)
